@@ -1,0 +1,16 @@
+# OAS runtime and generated files
+**/log/
+**/__pycache__/
+**/.pytest_cache/
+**/pytest-cache-files-*/
+# Python environment (kept locally, not versioned)
+oas/.venv/
+# Flutter generated files
+oasx/.dart_tool/
+oasx/build/
+oasx/.flutter-plugins
+oasx/.flutter-plugins-dependencies
+oasx/.packages
+oasx/**/GeneratedPluginRegistrant.*
+# local settings
+.vscode/
